@@ -1,0 +1,19 @@
+/* Add application styles & imports to this file! */
+
+.text-info{
+  color: blue;
+}
+a {
+  cursor: pointer;
+}
+.btn{
+  background-color: green;
+  color:#fff;
+  border-radius: 5px;
+  padding: 6px 15px;
+}
+span{
+  font-size: 11px;
+  font-style: italic;
+  color: darkgoldenrod;
+}
